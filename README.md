@@ -99,11 +99,11 @@ The integration of statistical analysis and machine learning revealed critical i
    ```
 2. Run the R script for DEG analysis:
    ```bash
-   Rscript scripts/analysis_pipeline.R
+   Rscript scripts/MDS.R
    ```
 3. Perform clustering using Python:
    ```bash
-   python3 scripts/clustering_analysis.py
+   python3 scripts/MDS_.ipynb
    ```
 
 # References
